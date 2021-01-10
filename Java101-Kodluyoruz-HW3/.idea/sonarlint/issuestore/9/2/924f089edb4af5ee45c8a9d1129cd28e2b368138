@@ -1,0 +1,13 @@
+
+8
+java:S36260"Remove this redundant jump.(ÉŠ©ƒ8¢¾ëÿâ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Çµí‘8¢¾ëÿâ.
+T	java:S106'"9Replace this use of System.out or System.err by a logger.(¡´€V8×†–ÿâ.
+L
+java:S5411&"*Use the primitive boolean expression here.(í·øõûÿÿÿÿ8×†–ÿâ.
+0
+java:S1220""Move this file to a named package.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(§²¦ôøÿÿÿÿ8Š„€ã.
+>	java:S1316""Add a default case to this switch.(¸Ûèø8Øâõÿâ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ñáˆ‰ûÿÿÿÿ8–óúıâ.
